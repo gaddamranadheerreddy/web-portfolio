@@ -13,3 +13,10 @@
 .skybluE {
 	background-color: lightskyblue;
 }
+
+.imagebg {
+	background-image: url(https://img.freepik.com/free-photo/uranus-sky-night-background-asset-game-2d-futuristic-generative-ai_191095-2033.jpg?size=626&ext=jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
